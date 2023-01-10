@@ -29,12 +29,13 @@ Currently, the process is done manually. An individual is given the money to pay
 ### Roadmap
 As mentioned earlier, the current process is quite manual. In the future, it is desired to have a more streamlined and efficient system in which money is paid directly to the school via credit card or mobile money, and is attributed to the specific student. This will significantly reduce administrative costs, as it will no longer require someone to physically pay the tuition fees. Additionally, an annual report will be produced, detailing all money received and expenses.
 
-- [ ] Move reporting structure from whatsApp to Gdrive
-- [ ] Answer FAQs
-- [ ] Add payment rails to site so payment can come from cc/mm straight to school bank accoount
-- [ ] Prepare annual financial report
-- [ ] Annual student report template
-- [ ] Add metrics for avaialble orphans?
+ [ ] Detail how payment works in current state
+ [ ] Move reporting structure from whatsApp to Gdrive
+ [ ] Answer FAQs
+ [ ] Add payment rails to site so payment can come from cc/mm straight to school bank accoount
+ [ ] Prepare annual financial report
+ [ ] Annual student report template
+ [ ] Add metrics for avaialble orphans?
 
 ### FAQs
 * How are the orphans identified?
