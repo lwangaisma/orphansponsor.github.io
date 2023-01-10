@@ -30,5 +30,5 @@ Currently, the process is done manually. An individual is given the money to pay
 As mentioned earlier, the current process is quite manual. In the future, it is desired to have a more streamlined and efficient system in which money is paid directly to the school via credit card or mobile money, and is attributed to the specific student. This will significantly reduce administrative costs, as it will no longer require someone to physically pay the tuition fees. Additionally, an annual report will be produced, detailing all money received and expenses.
 
 ### FAQs
-How are the orphans identified?
-What schools do we work with?
+* How are the orphans identified?
+* What schools do we work with?
