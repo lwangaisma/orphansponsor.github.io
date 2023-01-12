@@ -5,7 +5,7 @@ Are you interested in making a difference in the lives of orphans by helping the
 There are many organizations that offer sponsorship programs for orphans. These programs typically provide funding for school fees, uniforms, books, and other educational expenses. Some organizations may also offer additional support, such as mentorship and tutoring. This one is however geared towards offering just school fees. [CIA](https://www.cia.gov/the-world-factbook/field/real-gdp-per-capita/country-comparison) has Uganda's GDP per capita at $2,200 which is 211/229 countries in the world. 
 
 ### How it works
-For just $250 a year, you can sponsor a child's education in Uganda. With this opportunity, you can make a meaningful impact on a child's life without the responsibilities that come with parenting. The children you sponsor will come from families who are able to provide for their basic needs but lack the means to pay for tuition.
+For just $290 a year, you can sponsor a child's education in Uganda. With this opportunity, you can make a meaningful impact on a child's life without the responsibilities that come with parenting. The children you sponsor will come from families who are able to provide for their basic needs but lack the means to pay for tuition.
 
 As a sponsor, you will receive regular updates on your sponsored child's academic progress throughout the year. These reports will be sent to you via WhatsApp or a link to a Google Drive folder that will be sent to your email. The $250 sponsorship fee can be paid in full annually or in three installments, aligning with the school's academic term fee schedule. We will send you an annual reminder of when the next academic year fee is due.
 
