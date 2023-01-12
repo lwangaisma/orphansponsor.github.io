@@ -32,7 +32,9 @@ As mentioned earlier, the current process is quite manual. In the future, it is 
 ### FAQs
 * How are the orphans identified?
 * What schools do we work with?
-Zulaiha Islamic secondary school
+
+- Zulaiha Islamic secondary school
+- Ar Rahman Islamic Primary School
 
 ### TO DOs
  - [ ] Detail how payment works in current state
